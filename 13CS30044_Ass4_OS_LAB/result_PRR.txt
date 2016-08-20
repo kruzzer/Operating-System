@@ -1,0 +1,34 @@
+	 Process PID : 30106
+Priority : 10
+Turn around time : 2915.17 sec
+Waiting time : 9157.00 clock ticks
+Response time : 1.00 clock ticks
+
+
+	 Process PID : 30104
+Priority : 10
+Turn around time : 2915.19 sec
+Waiting time : 7866.00 clock ticks
+Response time : 2.00 clock ticks
+
+
+	 Process PID : 30107
+Priority : 5
+Turn around time : 8375.04 sec
+Waiting time : 4886.00 clock ticks
+Response time : 2.00 clock ticks
+
+
+	 Process PID : 30101
+Priority : 5
+Turn around time : 8378.05 sec
+Waiting time : 5394.00 clock ticks
+Response time : 2.00 clock ticks
+
+
+
+
+		 Average Values
+Turn around time : 5645.86 sec
+Waiting time : 6825.75 clock ticks
+Response time : 1.75 clock ticks

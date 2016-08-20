@@ -1,0 +1,8 @@
+./test3.cout | ./test2.outt | ./test3.out 
+./test3.out | ./test2.out | ./test.out 
+4./test.out | ./test2.out | ./test3.out 
+./test.out | ./test2.out | ./test3.out 
+exit 
+./test.c | ./test2.c | ./test3.c 
+./test.out | ./test1.out | ./test2.c 
+./test.out | ./test2.out | ./test3.out 
