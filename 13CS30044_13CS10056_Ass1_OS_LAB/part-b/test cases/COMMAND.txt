@@ -1,0 +1,48 @@
+ls 
+ls 
+history 
+mkdir ken 
+cd ken 
+mkdir sid 
+cd sid 
+pwd 
+cd .. 
+cd .. 
+ls 
+ls -l 
+history 6 
+history 
+cd ken 
+ls 
+rmdir sid 
+ls 
+cd 
+cd Desktop/13CS30044_13CS10056_Ass1_OS_LAB 
+cd part-b 
+gedit emac.c & 
+history 
+gedit emac.c 
+ls 
+subl edit.c 
+ls 
+hisotry 
+history 
+gedit & emac.c 
+gedit 
+gedit & 
+pwd 
+ls 
+mkdir ken 
+ls 
+cd ken 
+ls 
+pwd 
+cd .. 
+rmdir ken 
+ls 
+clear 
+history 
+env 
+gedit & 
+gedit 
+exit 

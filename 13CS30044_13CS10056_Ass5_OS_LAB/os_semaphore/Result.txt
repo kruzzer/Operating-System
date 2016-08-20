@@ -1,0 +1,10 @@
+With probability = 20 , the total no. of messages inserted = 24 and the total no. of messages deleted = 23
+With probability = 30 , the total no. of messages inserted = 101 and the total no. of messages deleted = 101
+With probability = 40 , the total no. of messages inserted = 42 and the total no. of messages deleted = 41
+With probability = 50 , the total no. of messages inserted = 35 and the total no. of messages deleted = 34
+With probability = 60 , the total no. of messages inserted = 49 and the total no. of messages deleted = 46
+With probability = 70 , the total no. of messages inserted = 24 and the total no. of messages deleted = 19
+With probability = 80 , the total no. of messages inserted = 270 and the total no. of messages deleted = 270
+With probability = 90 , the total no. of messages inserted = 497 and the total no. of messages deleted = 490
+With probability = 50 , the total no. of messages inserted = 20 and the total no. of messages deleted = 18
+With probability = 0.6 , the total no. of messages inserted = 3 and the total no. of messages deleted = 1
